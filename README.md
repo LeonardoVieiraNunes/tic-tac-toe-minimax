@@ -38,4 +38,4 @@ Isso executará a função `compare_heuristics()` e exibirá os resultados no te
 - Heurística de Pontuação de Posição: Atribui uma pontuação a cada posição no tabuleiro e calcula a pontuação total para cada jogador com base na soma das pontuações das posições ocupadas por suas marcas.
 - Heurística de Pontuação Simples: Utiliza a função de pontuação do jogo, que retorna uma pontuação fixa se o jogo for ganho (100 pontos).
 
-Mais informações, consulte o [relatório](relatorio.pdf)
+Para mais informações e resultados, consulte o [relatório](relatorio.pdf)
