@@ -12,7 +12,7 @@ Este projeto implementa um Jogo da Velha utilizando o algoritmo Minimax e avalia
 
 1. Clone este repositório ou baixe o código-fonte:
 ```
-git clone https://github.com/your-username/your-repo.git
+https://github.com/LeonardoVieiraNunes/tic-tac-toe-minimax.git
 ```
 2. Navegue até o diretório do projeto:
 ```
