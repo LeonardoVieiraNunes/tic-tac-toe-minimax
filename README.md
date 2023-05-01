@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ```
 ## Uso
 
-### Executar a comparação entre as euristicas
+### Executar a comparação entre as heurísticas
 ```
 python tic_tac_toe_minimax.py
 ```
