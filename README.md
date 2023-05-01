@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Minimax
 
-Este projeto implementa um Jogo da Velha utilizando o algoritmo Minimax e avalia o desempenho com diferentes heurísticas.
+Neste projeto, comparamos o desempenho de diferentes heurísticas em um algoritmo minimax para criar uma inteligência artificial (IA) que joga o jogo da velha. O objetivo é identificar qual heurística tem melhor desempenho e, portanto, é mais adequada para ser usada na IA do jogo da velha.
 
 ## Instalação
 
